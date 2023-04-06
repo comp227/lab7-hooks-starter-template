@@ -1,23 +1,23 @@
 {
-  "notes": [
+  "tasks": [
     {
-      "content": "custom-hooks are great",
+      "content": "build more stuff using custom hooks",
       "id": 1
     },
     {
-      "content": "the best featrure ever <3",
+      "content": "dig through some music crates",
       "id": 2
     }
   ],
   "persons": [
     {
-      "name": "mluukkai",
-      "number": "040-5483923",
+      "name": "Tommy Tiger Jr.",
+      "email": "powercat@pacific.edu",
       "id": 1
     },
     {
-      "name": "kaltsoon",
-      "number": "045-2323456",
+      "name": "Khoury Graffiti Rock",
+      "email": "tryingtostudy@allcosts.com",
       "id": 2
     }
   ]
