@@ -68,7 +68,7 @@ const App = () => {
         <button>create</button>
       </form>
       <ul>
-        {persons.map(p => <li key={p.id}>{p.name} (<a href={`mailto:${p.number}`}>{p.number}</a>)</li>)}
+        {persons.map(p => <li key={p.id}>{p.name} (<a href={`mailto:${p.email}`}>{p.email}</a>)</li>)}
       </ul>
     </div>
   )
